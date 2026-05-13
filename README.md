@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# PI_ZELO_PROJECT
-Zelo é uma plataforma SaaS moderna para automação, gestão de processos e produtividade, com autenticação segura, multi-tenant, integração com IA, dashboards inteligentes e arquitetura escalável usando Next.js e Supabase.
-=======
 # ZERO Marketplace
 
 Marketplace mobile de serviços locais (encanador, eletricista, reformas, limpeza, etc.) com prestadores verificados, orçamento inteligente e modo emergência 24h.
@@ -124,4 +120,3 @@ PI/
 - Upload de imagens (S3, Vercel Blob, Cloudflare R2) para portfolio e KYC
 - Workflow de KYC com prova de identidade (Stripe Identity, Idwall)
 - Testes E2E no app (Maestro ou Detox)
->>>>>>> 71f541d (Initial commit: PI ZELO Project structure and documentation)
